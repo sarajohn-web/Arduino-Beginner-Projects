@@ -7,7 +7,6 @@ This repository contains beginner-level Arduino projects and interfacing experim
 - Ultrasonic Sensor
 - LCD Interfacing
 - Temperature Sensor
-- Smart Automation Concepts
 
 ## Tools Used
 - Tinkercad
@@ -17,5 +16,4 @@ This repository contains beginner-level Arduino projects and interfacing experim
 ## Components Used
 - Sensors
 - LEDs
-- Breadboard
 - Jumper Wires
